@@ -1,1 +1,1 @@
-# CPSC-210
+Password Manager Project
